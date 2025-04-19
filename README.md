@@ -1,8 +1,10 @@
 # Bookbot
 
-Requires Python3 to run
+* Requires Python3 to run
 
-Usage `python3 main.py <path_to_book>`
+* Usage `python3 main.py <path_to_book>`
+
+-----------------------------------
 
 This is a quick python script to get my coding skills warmed up again as I go to bigger projects
 
